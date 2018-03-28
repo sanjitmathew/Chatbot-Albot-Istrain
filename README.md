@@ -7,7 +7,8 @@ This packages have shown its efficiency and results better than existing chatbot
 ## how to use
 <ul>
   <li>copy the file albot.py in your project</li>
-  <li>In your source code import everything from albot
+  <li>Please don't use the global variables I have used those are nwd,err,exc,whos,neg,tail,howwords,whywords,whatwords,wherewords,whenwords,rubbish,jar.</li>
+  <li>In your source code import everything from albot(its a must)
     <ul> <li>from albot import *</li>  </ul>
    </li>
    <li>To store information
@@ -44,4 +45,4 @@ This packages have shown its efficiency and results better than existing chatbot
 
 ##disclaimer
 
-This chatbot is not perfect. I have not tested it thoroughly. It does wild guesses. can sometimes be wrong.
+This chatbot is not perfect. I have not tested it thoroughly. It does wild guesses. can sometimes be wrong. 
