@@ -43,6 +43,6 @@ This packages have shown its efficiency and results better than existing chatbot
   </li>
 </ul>
 
-##disclaimer
+<h3>disclaimer</h3>
 
 This chatbot is not perfect. I have not tested it thoroughly. It does wild guesses. can sometimes be wrong. 
